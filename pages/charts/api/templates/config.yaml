@@ -1,0 +1,6 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: {{ .Chart.Name }}
+data:
+  PAGE_CONTENT: {{ .Values.config.PAGE_CONTENT}}
