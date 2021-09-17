@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - https://stephendillondell.github.io/
+    - https://stephendillondell.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2021-09-17T15:45:09.312520246+01:00"
